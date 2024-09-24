@@ -11,3 +11,7 @@ You can access the web page that I used in the following task from this web link
 ## db_code.py
 You can access the CSV data that I used by using this link:
 [csv_data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/INSTRUCTOR.csv)
+
+## etl_project_gdp.py
+You can access the web page that I used in the following task from this link:
+[web_page](https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29)
