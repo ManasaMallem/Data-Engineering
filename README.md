@@ -15,3 +15,7 @@ You can access the CSV data that I used by using this link:
 ## etl_project_gdp.py
 You can access the web page that I used in the following task from this link:
 [web_page](https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29)
+
+## banks_project.py
+You can access the web page that I used in the following task from this link:
+[web_page](https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks)
