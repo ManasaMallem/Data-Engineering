@@ -18,4 +18,4 @@ You can access the web page that I used in the following task from this link:
 
 ## banks_project.py
 You can access the web page that I used in the following task from this link:
-[web_page](https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks)
+ [web_page](https://en.wikipedia.org/wiki/List_of_largest_banks)
